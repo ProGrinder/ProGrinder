@@ -8,7 +8,7 @@
 
 - 🤔 Not oustanding enough that always doubt life
 
-- 👨‍💻 Love frontend, true to backend, but __No grilfriend__.💘s
+- 👨‍💻 Love frontend, true to backend, but __No grilfriend__.💘
 
 - 📱 A tech nerd and fans of new products
 
