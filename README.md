@@ -1,7 +1,13 @@
 ### Hi there 👋
 
+> I'm Grinder Wan, an undergraduate major in IT from China.
 
-[![Grinder's GitHub stats](https://github-readme-stats.vercel.app/api?username=ProGrinder&count_private=true)]
+My Blog currently updating: ![Blog](https://reforget.top/)
+
+
+![Grinder's GitHub stats](https://github-readme-stats.vercel.app/api?username=ProGrinder&count_private=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ProGrinder&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **ProGrinder/ProGrinder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
