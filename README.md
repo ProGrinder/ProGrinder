@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-Visiter Counter:
+⬇ __Visiter Counter__ ⬇
+
 ![](https://steins-gate-visitor-count.greenhandatsjtu.repl.co/greenhandatsjtu?ratio=0.75)
 
 > I'm Grinder Wan, an undergraduate major in IT from China.
