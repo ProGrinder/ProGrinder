@@ -2,17 +2,10 @@
 
 ⬇ __Visiter Counter__ ⬇
 
-![](https://steins-gate-visitor-count.greenhandatsjtu.repl.co/greenhandatsjtu?ratio=0.75)
 
-> I'm Grinder Wan, an undergraduate postgraduate in IT from China.
 
-- 🤔 Not oustanding enough that always doubt life
 
-- 👨‍💻 Love frontend, true to backend, but __No grilfriend__.💘
-
-- 📱 A tech nerd and fans of new products
-
-- 💕 Love Animationss🥰 and Gameing 🎮 
+> I'm Grinder Wan, an undergraduate postgraduate in CS from China.
 
 My Blog currently updating: [Blog](https://reforget.top/)
 
@@ -21,7 +14,7 @@ My Blog currently updating: [Blog](https://reforget.top/)
 
 __Year's stats__:
 
-![Grinder's GitHub stats](https://github-readme-stats.vercel.app/api?username=ProGrinder&count_private=true)
+![github contribution grid snake animation](https://raw.githubusercontent.com/ProGrinder/Progrinder/output/github-contribution-grid-snake.svg)
 
 __Technology Stack__:
 
