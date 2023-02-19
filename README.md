@@ -14,6 +14,8 @@ __Year's stats__:
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/ProGrinder/ProGrinder/output/github-contribution-grid-snake.svg)
 
+![Grinder's GitHub stats](https://github-readme-stats.vercel.app/api?username=ProGrinder&count_private=true)
+
 __Technology Stack__:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ProGrinder&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
