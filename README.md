@@ -13,8 +13,11 @@ My Blog currently updating: [Blog](https://reforget.top/)
 `※ FOR REFERENCE ONLY`
 
 __Year's stats__:
-
-![github contribution grid snake animation](https://raw.githubusercontent.com/ProGrinder/Progrinder/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ProGrinder/ProGrinder/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ProGrinder/ProGrinder/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ProGrinder/ProGrinder/output/github-contribution-grid-snake.svg">
+</picture>
 
 __Technology Stack__:
 
