@@ -3,8 +3,6 @@
 ⬇ __Visiter Counter__ ⬇
 
 
-
-
 > I'm Grinder Wan, an undergraduate postgraduate in CS from China.
 
 My Blog currently updating: [Blog](https://reforget.top/)
@@ -13,6 +11,7 @@ My Blog currently updating: [Blog](https://reforget.top/)
 `※ FOR REFERENCE ONLY`
 
 __Year's stats__:
+
 ![github contribution grid snake animation](https://raw.githubusercontent.com/ProGrinder/ProGrinder/output/github-contribution-grid-snake.svg)
 
 __Technology Stack__:
